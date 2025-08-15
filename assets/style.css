@@ -88,12 +88,13 @@ body {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 18px;
 }
 
 
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 18px;
 }
 
 #gallery {
